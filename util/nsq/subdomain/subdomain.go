@@ -6,12 +6,12 @@ import (
 	"os"
 	"time"
 
-	"gitea.com/serialt/goscan/plug/domain"
-	"gitea.com/serialt/goscan/plug/domain/dnsprobe"
-	"gitea.com/serialt/goscan/util/conf"
-	"gitea.com/serialt/goscan/util/logger"
-	Gnsq "gitea.com/serialt/goscan/util/nsq"
-	"gitea.com/serialt/goscan/util/nsq/Production"
+	"github.com/serialt/goscan/plug/domain"
+	"github.com/serialt/goscan/plug/domain/dnsprobe"
+	"github.com/serialt/goscan/util/conf"
+	"github.com/serialt/goscan/util/logger"
+	Gnsq "github.com/serialt/goscan/util/nsq"
+	"github.com/serialt/goscan/util/nsq/Production"
 
 	"github.com/gogf/gf/text/gstr"
 	"github.com/nsqio/go-nsq"

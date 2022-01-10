@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"gitea.com/serialt/goscan/plug/portscan/public"
-	"gitea.com/serialt/goscan/util/logger"
+	"github.com/serialt/goscan/plug/portscan/public"
+	"github.com/serialt/goscan/util/logger"
 
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"

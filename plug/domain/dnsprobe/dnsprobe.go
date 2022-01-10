@@ -6,7 +6,7 @@ import (
 	"strings"
 	"sync"
 
-	"gitea.com/serialt/goscan/util/logger"
+	"github.com/serialt/goscan/util/logger"
 
 	"github.com/gogf/gf/os/grpool"
 	miekgdns "github.com/miekg/dns"

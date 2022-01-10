@@ -11,8 +11,8 @@ import (
 	"sync"
 	"time"
 
-	_ "gitea.com/serialt/goscan/plug/portscan/probe/statik"
-	"gitea.com/serialt/goscan/util/logger"
+	_ "github.com/serialt/goscan/plug/portscan/probe/statik"
+	"github.com/serialt/goscan/util/logger"
 
 	"github.com/axgle/mahonia"
 	"github.com/gogf/gf/encoding/ghtml"

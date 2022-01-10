@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"gitea.com/serialt/goscan/plug/domain/subfinder/subscraping"
+	"github.com/serialt/goscan/plug/domain/subfinder/subscraping"
 )
 
 // zoomAuth holds the ZoomEye credentials

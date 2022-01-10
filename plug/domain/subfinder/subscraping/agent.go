@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"time"
 
-	"gitea.com/serialt/goscan/util/logger"
+	"github.com/serialt/goscan/util/logger"
 )
 
 // NewSession 为域创建一个新的会话对象

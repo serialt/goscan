@@ -5,7 +5,7 @@ import (
 	"net"
 	"time"
 
-	"gitea.com/serialt/goscan/util/logger"
+	"github.com/serialt/goscan/util/logger"
 )
 
 // ConnectVerify 使用Connect方式二次校检Sync扫描出的端口

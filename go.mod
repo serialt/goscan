@@ -1,4 +1,4 @@
-module gitea.com/serialt/goscan
+module github.com/serialt/goscan
 
 go 1.15
 

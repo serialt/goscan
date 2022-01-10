@@ -5,7 +5,7 @@ import (
 	"runtime"
 	"syscall"
 
-	"gitea.com/serialt/goscan/util/logger"
+	"github.com/serialt/goscan/util/logger"
 )
 
 // 判断运行的系统环境

@@ -10,13 +10,13 @@ import (
 	"strings"
 	"time"
 
-	"gitea.com/serialt/goscan/plug/portscan/probe"
-	"gitea.com/serialt/goscan/plug/portscan/public"
-	"gitea.com/serialt/goscan/plug/portscan/runner"
-	"gitea.com/serialt/goscan/util/conf"
-	"gitea.com/serialt/goscan/util/logger"
-	Gnsq "gitea.com/serialt/goscan/util/nsq"
-	"gitea.com/serialt/goscan/util/nsq/Production"
+	"github.com/serialt/goscan/plug/portscan/probe"
+	"github.com/serialt/goscan/plug/portscan/public"
+	"github.com/serialt/goscan/plug/portscan/runner"
+	"github.com/serialt/goscan/util/conf"
+	"github.com/serialt/goscan/util/logger"
+	Gnsq "github.com/serialt/goscan/util/nsq"
+	"github.com/serialt/goscan/util/nsq/Production"
 
 	"github.com/nsqio/go-nsq"
 )

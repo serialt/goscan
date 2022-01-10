@@ -7,11 +7,11 @@ import (
 	"sync"
 	"time"
 
-	"gitea.com/serialt/goscan/plug/portscan/probe"
-	"gitea.com/serialt/goscan/plug/portscan/public"
-	"gitea.com/serialt/goscan/plug/portscan/scan"
-	"gitea.com/serialt/goscan/util/conf"
-	"gitea.com/serialt/goscan/util/logger"
+	"github.com/serialt/goscan/plug/portscan/probe"
+	"github.com/serialt/goscan/plug/portscan/public"
+	"github.com/serialt/goscan/plug/portscan/scan"
+	"github.com/serialt/goscan/util/conf"
+	"github.com/serialt/goscan/util/logger"
 
 	"github.com/ns3777k/go-shodan/v4/shodan"
 	"github.com/remeh/sizedwaitgroup"

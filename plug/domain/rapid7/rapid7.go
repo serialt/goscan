@@ -5,7 +5,7 @@ import (
 	"crypto/tls"
 	"errors"
 
-	"gitea.com/serialt/goscan/util/logger"
+	"github.com/serialt/goscan/util/logger"
 
 	"github.com/Cgboal/SonarSearch/proto"
 	"google.golang.org/grpc"

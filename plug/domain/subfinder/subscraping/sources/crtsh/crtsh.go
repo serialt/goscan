@@ -8,8 +8,8 @@ import (
 	jsoniter "github.com/json-iterator/go"
 
 	// postgres driver
-	"gitea.com/serialt/goscan/plug/domain/subfinder/subscraping"
 	_ "github.com/lib/pq"
+	"github.com/serialt/goscan/plug/domain/subfinder/subscraping"
 )
 
 type subdomain struct {

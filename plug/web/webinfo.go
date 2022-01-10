@@ -8,10 +8,10 @@ import (
 	"sync"
 	"time"
 
-	"gitea.com/serialt/goscan/plug/web/banalyze"
-	"gitea.com/serialt/goscan/plug/web/gospider"
-	"gitea.com/serialt/goscan/util/conf"
-	"gitea.com/serialt/goscan/util/logger"
+	"github.com/serialt/goscan/plug/web/banalyze"
+	"github.com/serialt/goscan/plug/web/gospider"
+	"github.com/serialt/goscan/util/conf"
+	"github.com/serialt/goscan/util/logger"
 
 	"github.com/axgle/mahonia"
 	"github.com/gogf/gf/crypto/gmd5"

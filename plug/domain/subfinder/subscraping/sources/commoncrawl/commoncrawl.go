@@ -7,8 +7,8 @@ import (
 	"net/url"
 	"strings"
 
-	"gitea.com/serialt/goscan/plug/domain/subfinder/subscraping"
 	jsoniter "github.com/json-iterator/go"
+	"github.com/serialt/goscan/plug/domain/subfinder/subscraping"
 )
 
 const indexURL = "https://index.commoncrawl.org/collinfo.json"

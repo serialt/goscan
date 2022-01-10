@@ -3,10 +3,10 @@ package domain
 import (
 	"sync"
 
-	"gitea.com/serialt/goscan/plug/domain/dnsprobe"
-	"gitea.com/serialt/goscan/plug/domain/rapid7"
-	"gitea.com/serialt/goscan/plug/domain/subfinder/runner"
-	"gitea.com/serialt/goscan/util/logger"
+	"github.com/serialt/goscan/plug/domain/dnsprobe"
+	"github.com/serialt/goscan/plug/domain/rapid7"
+	"github.com/serialt/goscan/plug/domain/subfinder/runner"
+	"github.com/serialt/goscan/util/logger"
 
 	"github.com/gogf/gf/container/gset"
 )

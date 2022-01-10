@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"gitea.com/serialt/goscan/plug/domain/subfinder/subscraping"
+	"github.com/serialt/goscan/plug/domain/subfinder/subscraping"
 )
 
 // EnumerateSubdomains 枚举给定域的所有子域

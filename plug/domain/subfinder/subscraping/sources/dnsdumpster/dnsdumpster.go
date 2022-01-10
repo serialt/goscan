@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"strings"
 
-	"gitea.com/serialt/goscan/plug/domain/subfinder/subscraping"
+	"github.com/serialt/goscan/plug/domain/subfinder/subscraping"
 )
 
 // CSRFSubMatchLength CSRF regex submatch length

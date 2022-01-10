@@ -7,7 +7,7 @@ import (
 
 	jsoniter "github.com/json-iterator/go"
 
-	"gitea.com/serialt/goscan/plug/domain/subfinder/subscraping"
+	"github.com/serialt/goscan/plug/domain/subfinder/subscraping"
 )
 
 type errorResponse struct {

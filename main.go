@@ -6,14 +6,14 @@ import (
 	"os/signal"
 	"syscall"
 
-	_ "gitea.com/serialt/goscan/util/conf"
-	_ "gitea.com/serialt/goscan/util/logger"
+	_ "github.com/serialt/goscan/util/conf"
+	_ "github.com/serialt/goscan/util/logger"
 
-	Gnsq "gitea.com/serialt/goscan/util/nsq"
+	Gnsq "github.com/serialt/goscan/util/nsq"
 
-	"gitea.com/serialt/goscan/util/nsq/portscan"
-	"gitea.com/serialt/goscan/util/nsq/subdomain"
-	"gitea.com/serialt/goscan/util/nsq/webInfo"
+	"github.com/serialt/goscan/util/nsq/portscan"
+	"github.com/serialt/goscan/util/nsq/subdomain"
+	"github.com/serialt/goscan/util/nsq/webInfo"
 
 	"github.com/gogf/gf/frame/g"
 	_ "github.com/projectdiscovery/fdmax/autofdmax"

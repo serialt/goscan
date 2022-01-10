@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"regexp"
 
-	"gitea.com/serialt/goscan/plug/domain/subfinder/subscraping"
+	"github.com/serialt/goscan/plug/domain/subfinder/subscraping"
 )
 
 type agent struct {

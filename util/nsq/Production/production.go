@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"gitea.com/serialt/goscan/util/conf"
+	"github.com/serialt/goscan/util/conf"
 
 	"github.com/gogf/gf/encoding/gbase64"
 	"github.com/gogf/gf/encoding/gjson"

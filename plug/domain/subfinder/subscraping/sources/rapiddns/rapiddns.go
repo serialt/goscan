@@ -5,7 +5,7 @@ import (
 	"context"
 	"io/ioutil"
 
-	"gitea.com/serialt/goscan/plug/domain/subfinder/subscraping"
+	"github.com/serialt/goscan/plug/domain/subfinder/subscraping"
 )
 
 // Source is the passive scraping agent

@@ -6,11 +6,11 @@ import (
 	"os"
 	"time"
 
-	"gitea.com/serialt/goscan/plug/web"
-	"gitea.com/serialt/goscan/util/conf"
-	"gitea.com/serialt/goscan/util/logger"
-	Gnsq "gitea.com/serialt/goscan/util/nsq"
-	"gitea.com/serialt/goscan/util/nsq/Production"
+	"github.com/serialt/goscan/plug/web"
+	"github.com/serialt/goscan/util/conf"
+	"github.com/serialt/goscan/util/logger"
+	Gnsq "github.com/serialt/goscan/util/nsq"
+	"github.com/serialt/goscan/util/nsq/Production"
 
 	"github.com/nsqio/go-nsq"
 )

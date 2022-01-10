@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"time"
 
-	"gitea.com/serialt/goscan/plug/domain/subfinder/subscraping"
+	"github.com/serialt/goscan/plug/domain/subfinder/subscraping"
 )
 
 // SleepRandIntn is the integer value to get the pseudo-random number

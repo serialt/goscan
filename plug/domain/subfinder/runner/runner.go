@@ -4,10 +4,10 @@ import (
 	"strings"
 	"time"
 
-	"gitea.com/serialt/goscan/plug/domain/subfinder/passive"
-	"gitea.com/serialt/goscan/plug/domain/subfinder/subscraping"
-	"gitea.com/serialt/goscan/util/conf"
-	"gitea.com/serialt/goscan/util/logger"
+	"github.com/serialt/goscan/plug/domain/subfinder/passive"
+	"github.com/serialt/goscan/plug/domain/subfinder/subscraping"
+	"github.com/serialt/goscan/util/conf"
+	"github.com/serialt/goscan/util/logger"
 
 	"github.com/gogf/gf/container/gset"
 )

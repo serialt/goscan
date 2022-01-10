@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"gitea.com/serialt/goscan/plug/web/banalyze"
+	"github.com/serialt/goscan/plug/web/banalyze"
 
 	"github.com/gogf/gf/encoding/gjson"
 	"github.com/gogf/gf/frame/g"

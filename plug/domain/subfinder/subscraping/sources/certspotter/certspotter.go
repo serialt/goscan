@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"gitea.com/serialt/goscan/plug/domain/subfinder/subscraping"
 	jsoniter "github.com/json-iterator/go"
+	"github.com/serialt/goscan/plug/domain/subfinder/subscraping"
 )
 
 type certspotterObject struct {
